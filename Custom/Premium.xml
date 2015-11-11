@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: Premium rate / channel settings
+// ----------------------------------------------------------------------------------
+-->
+<premium>
+	<!-- Login requirement -->
+	<serverchannel 	bronze="0" 	silver="0" 	gold="0"/>
+
+	<!-- All values in increase percent -->
+	<bronze 	exp="300" 	masterexp="100" 	drop="20" 	zen = "100"/>
+	<silver 	exp="600" 	masterexp="200" 	drop="50" 	zen = "200"/>
+	<gold 		exp="900" 	masterexp="300" 	drop="100" 	zen = "300"/>
+
+	<!-- VIP zones -->
+	<mapfilter>
+		<map number="0" x1="0" y1="0" x2="255" y2="255" bronze="0" silver="0" gold="0" />
+	</mapfilter>
+</premium>

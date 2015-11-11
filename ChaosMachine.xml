@@ -1,0 +1,67 @@
+// ----------------------------------------------------------------------------------
+// Description: ChaosMachineManager
+// ----------------------------------------------------------------------------------
+
+<recipe>
+
+<name>
+	<combination name="Perfect" money="0" successrate="0" />
+</name>
+   
+	 <!-- INGREDIENTS  -->
+   <ingredients>
+<item> 
+	starttype="0" 
+	startindex="0" 
+	endtype="0" 
+	endindex="0" 
+	minlevel="0" 
+	maxlevel="0" 
+	minoption="0" 
+	maxoption="0" 
+	mindur="0" 
+	maxdur="0" 
+	mincount="0" 
+	maxcount="0" 
+	tag="0"
+</item>
+   </ingredients>
+   
+	 <!-- TALISMAN -->
+   <talismans>
+<item> 
+	starttype="0" 
+	startindex="0" 
+	endtype="0" 
+	endindex="0" 
+	minlevel="0" 
+	maxlevel="0" 
+	minoption="0" 
+	maxoption="0" 
+	mindur="0" 
+	maxdur="0" 
+	addrate="0" 
+	countmax="0"
+</item>
+   </talismans>
+   
+	<!-- PRODUCES -->
+   <produces>
+<item> 
+	type="0" 
+	index="0" 
+	minlevel="0" 
+	maxlevel="0" 
+	minoption="0" 
+	maxoption="0" 
+	skill="0" 
+	luck="0" 
+	excmin="0" 
+	excmax="0" 
+	ancient="0" 
+	sockmin="0" 
+	sockmax="0" 
+	dur="0"
+</item>
+   </produces>
+</recipe>

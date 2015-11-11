@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Elf Lala
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+
+<item id="7" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="7" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="7" num="12" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+<item id="7" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="8" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="8" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="8" num="12" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+<item id="8" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="9" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="9" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="9" num="12" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+<item id="9" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="10" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="10" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="10" num="12" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+<item id="10" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="11" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="11" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Vine Helm -->
+<item id="11" num="12" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+<item id="11" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="14" num="3" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+<item id="14" num="6" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+
+<item id="12" num="8" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Golden Crossbow -->
+<item id="12" num="9" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arquebus -->
+<item id="12" num="10" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arquebus -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Crossbow -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Crossbow -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+<item id="12" num="11" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+<item id="12" num="17" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+<item id="12" num="18" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Orb -->
+<item id="12" num="45" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Defense Orb -->
+<item id="12" num="46" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Damage Orb -->
+
+<item id="11" num="13" dur="255" level="9" skill="0" luck="1" option="1" exc="63" anc="0" socket="0" element="-1" /> <!-- Silk Helm -->
+
+<item id="14" num="13" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" />
+<item id="14" num="14" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" />
+<item id="12" num="15" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" />
+</shop>

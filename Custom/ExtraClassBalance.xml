@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: ExtraClassBalance
+//  Max Damage: 1000
+// ----------------------------------------------------------------------------------
+-->
+<extraclassbalance>
+     <attackincrease>
+     <increase class="0" reset="1" damage="100" absorb="50"></increase> 
+     </attackincrease>
+     <attackincrease>
+     <increase class="35" reset="9" damage="1000" absorb="80"></increase> 
+     </attackincrease>
+</extraclassbalance>
+

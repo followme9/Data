@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Wandering Merchant Alex
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+
+	<item id="8" num="15" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Saber -->
+	<item id="8" num="20" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Double Poleaxe -->
+	<item id="8" num="23" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Spear -->
+	<item id="8" num="37" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Giant Trident -->
+	<item id="9" num="15" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Berdysh -->
+	<item id="9" num="20" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Serpent Spear -->
+	<item id="9" num="23" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Spear -->
+	<item id="9" num="37" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Saber -->
+	<item id="10" num="15" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Great Hammer -->
+	<item id="10" num="20" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Double Poleaxe -->
+	<item id="10" num="23" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Spear -->
+	<item id="10" num="37" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Giant Trident -->
+	<item id="11" num="15" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Berdysh -->
+	<item id="11" num="20" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Serpent Spear -->
+	<item id="11" num="23" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Spear -->
+	<item id="11" num="37" dur="0" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Saber -->
+	<item id="13" num="0" dur="0" level="1" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Double Poleaxe -->
+	<item id="13" num="1" dur="0" level="1" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Spear -->
+	<item id="13" num="2" dur="0" level="1" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Giant Trident -->
+	<item id="13" num="3" dur="0" level="1" skill="1" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Berdysh -->
+	<item id="14" num="3" dur="255" level="0" skill="1" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Serpent Spear -->
+	<item id="14" num="6" dur="255" level="0" skill="1" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Spear -->
+	<item id="0" num="31" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Double Poleaxe -->
+	<item id="12" num="47" dur="0" level="3" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Spear -->
+	<item id="12" num="16" dur="0" level="3" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Giant Trident -->
+	<item id="12" num="47" dur="0" level="3" skill="1" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Great Hammer -->
+	<item id="15" num="29" dur="0" level="3" skill="1" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Great Hammer -->
+</shop>

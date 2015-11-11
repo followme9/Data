@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: Notice & news rotation settings
+// ----------------------------------------------------------------------------------
+-->
+<notice>
+	<!--
+	type:	0 = Gold, 1 = System, 2: Whisper, 3: Party, 4: Guild, 5: Alliance, 6: Gens
+	delay:	Rotation delay (minutes)
+	-->
+
+	<!-- Notice on connect -->
+	<connect>
+		<message type="0">[BETA] uNsLeep</message>
+	</connect>
+
+	<!-- Premium info on connect -->
+	<premium>
+		<message type="0">Premium user!</message>
+		 <!-- Dias restantes: #DAYS#</message> -->
+	</premium>
+
+	<!-- Notice on gameplay -->
+	<rotate>
+		<message type="0" delay="15"> [Beta]</message>
+	</rotate>
+</notice>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// zGameServer
+// ----------------------------------------------------------------------------------
+// Description: Map rate settings
+// ----------------------------------------------------------------------------------
+// Revision: 	7:11 04.04.2014
+//===================================================================================
+-->
+<maprateinfo>
+	<!--
+	id:			Map number
+	exp:		Exp. rate (0: Without bonus)
+	masterexp:	Master exp. rate (0: Without bonus)
+	money:		Money drop rate (0: Without bonus)
+	-->
+	<map id="0" exp="250" masterexp="100" money="100" 	/> 	<!-- Lorencia -->
+	<map id="1" exp="250" masterexp="100" money="100" 	/> 	<!-- Dungeon -->
+	<map id="2" exp="250" masterexp="100" money="100" 	/> 	<!-- Devias -->
+	<map id="3" exp="250" masterexp="100" money="100" 	/> 	<!-- Noria -->
+	<map id="6" exp="500"  masterexp="100" money="50" 	/> 	<!-- Arena -->
+		<!--Map Guild Dona do CS -->
+	<map id="31" exp="700" masterexp="100" money="100" /> 	<!-- Land of trial -->
+</maprateinfo>

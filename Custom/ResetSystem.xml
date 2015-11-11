@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: User reset table options
+// ----------------------------------------------------------------------------------
+-->
+<resetsystem>
+	<!-- Reset settings -->
+	<normal>
+		<!-- Switch (0: Disabled, 1: Enabled) -->
+		<enabled>1</enabled>
+
+		<!-- Update dbo.Character Table on Reset (0: Only on LogOff, 1: Enable when Reset) -->
+		<update>0</update>
+
+		<!-- NPC configuration (First need add npc in MonsterSetBase.xml -->
+		<npc id="250" map="0" x="130" y="127" />
+
+		<!-- Not touch this, until Premium groups are ok -->
+		<autoreset enabled="1" level="400" />
+
+		<!--
+			Premium Reset System
+
+			If this is active, Reset system will use PayCodes (0 Free, 1 Bronze, 2 Silver, 3 Gold)
+			to check a group for reset.
+
+			If this is disabled, will only check based in MinResets or Max Resets!
+		-->
+		<premium enabled="1" />
+
+		<!-- Group list -->
+		<grouplist>
+			<!--
+				minlevel:	Min. level for reset
+				maxlevel:	Max. level for reset
+				minreset:	Min. reset for this group
+				maxreset:	Max. reset for this group
+				money:		Payment for reset (Money * <UserReset>)
+				gensp:		Contribution for reset
+				credits:	Credits for skip delay (0: without skips)
+				delay:		Delay for making reset (minutes)
+				autoreset:	Auto Reset Player when used /autoreset on <level>
+			-->
+			<!-- Free Group -->
+			<group minlevel="380" maxlevel="400" minreset="0" maxreset="2000" money="5000" gensp="0" credits="0" delay="0" autoreset="0">
+				<!-- Cleaning configuration (0: No, 1: Yes) -->
+				<cleaning>
+					<stats>0</stats>
+					<points>0</points>
+					<skills>0</skills>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+					<masterlevel>1</masterlevel>
+					<masterpoints>0</masterpoints>
+					<masterskills>0</masterskills>
+					<marlonquest>0</marlonquest>
+					<move>1</move>
+				</cleaning>
+				<!-- Checks configuration (0: Disabled, 1: Enabled) -->
+				<checks>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+				</checks>
+				<!--
+				pointmode:		0: Points * <UserReset>, 1: Points
+				-->
+				<reward pointmode="1">
+					<class id="0" point="0" gensp="100" credits="0"/> <!-- Wizard -->
+					<class id="1" point="0" gensp="100" credits="0"/> <!-- Knight -->
+					<class id="2" point="0" gensp="100" credits="0"/> <!-- Elf -->
+					<class id="3" point="0" gensp="100" credits="0"/> <!-- Gladiator -->
+					<class id="4" point="0" gensp="100" credits="0"/> <!-- Lord -->
+					<class id="5" point="0" gensp="100" credits="0"/> <!-- Summoner -->
+					<class id="6" point="0" gensp="100" credits="0"/> <!-- Fighter -->
+				</reward>
+			</group>
+
+			<!-- Bronze Group -->
+			<group minlevel="350" maxlevel="400" minreset="0" maxreset="3000" money="4000" gensp="0" credits="0" delay="0" autoreset="1">
+				<!-- Cleaning configuration (0: No, 1: Yes) -->
+				<cleaning>
+					<stats>0</stats>
+					<points>0</points>
+					<skills>0</skills>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+					<masterlevel>1</masterlevel>
+					<masterpoints>0</masterpoints>
+					<masterskills>0</masterskills>
+					<marlonquest>0</marlonquest>
+					<move>1</move>
+				</cleaning>
+				<!-- Checks configuration (0: Disabled, 1: Enabled) -->
+				<checks>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+				</checks>
+				<!--
+				pointmode:		0: Points * <UserReset>, 1: Points
+				-->
+				<reward pointmode="1">
+					<class id="0" point="50" gensp="150" credits="0"/> <!-- Wizard -->
+					<class id="1" point="50" gensp="150" credits="0"/> <!-- Knight -->
+					<class id="2" point="50" gensp="150" credits="0"/> <!-- Elf -->
+					<class id="3" point="50" gensp="150" credits="0"/> <!-- Gladiator -->
+					<class id="4" point="50" gensp="150" credits="0"/> <!-- Lord -->
+					<class id="5" point="50" gensp="150" credits="0"/> <!-- Summoner -->
+					<class id="6" point="50" gensp="150" credits="0"/> <!-- Fighter -->
+				</reward>
+			</group>
+
+
+			<!-- Silver Group -->
+			<group minlevel="330" maxlevel="400" minreset="0" maxreset="4000" money="3000" gensp="0" credits="0" delay="0" autoreset="1">
+				<!-- Cleaning configuration (0: No, 1: Yes) -->
+				<cleaning>
+					<stats>0</stats>
+					<points>0</points>
+					<skills>0</skills>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+					<masterlevel>1</masterlevel>
+					<masterpoints>0</masterpoints>
+					<masterskills>0</masterskills>
+					<marlonquest>0</marlonquest>
+					<move>0</move>
+				</cleaning>
+				<!-- Checks configuration (0: Disabled, 1: Enabled) -->
+				<checks>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+				</checks>
+				<!--
+				pointmode:		0: Points * <UserReset>, 1: Points
+				-->
+				<reward pointmode="1">
+					<class id="0" point="100" gensp="200" credits="0"/> <!-- Wizard -->
+					<class id="1" point="100" gensp="200" credits="0"/> <!-- Knight -->
+					<class id="2" point="100" gensp="200" credits="0"/> <!-- Elf -->
+					<class id="3" point="100" gensp="200" credits="0"/> <!-- Gladiator -->
+					<class id="4" point="100" gensp="200" credits="0"/> <!-- Lord -->
+					<class id="5" point="100" gensp="200" credits="0"/> <!-- Summoner -->
+					<class id="6" point="100" gensp="200" credits="0"/> <!-- Fighter -->
+				</reward>
+			</group>
+
+			<!-- Gold Group -->
+			<group minlevel="300" maxlevel="400" minreset="0" maxreset="500" money="2000" gensp="0" credits="0" delay="0" autoreset="1">
+				<!-- Cleaning configuration (0: No, 1: Yes) -->
+				<cleaning>
+					<stats>0</stats>
+					<points>0</points>
+					<skills>0</skills>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+					<masterlevel>0</masterlevel>
+					<masterpoints>0</masterpoints>
+					<masterskills>0</masterskills>
+					<marlonquest>0</marlonquest>
+					<move>0</move>
+				</cleaning>
+				<!-- Checks configuration (0: Disabled, 1: Enabled) -->
+				<checks>
+					<equipment>0</equipment>
+					<inventory>0</inventory>
+					<shop>0</shop>
+				</checks>
+				<!--
+				pointmode:		0: Points * <UserReset>, 1: Points
+				-->
+				<reward pointmode="1">
+					<class id="0" point="200" gensp="250" credits="0"/> <!-- Wizard -->
+					<class id="1" point="200" gensp="250" credits="0"/> <!-- Knight -->
+					<class id="2" point="200" gensp="250" credits="0"/> <!-- Elf -->
+					<class id="3" point="200" gensp="250" credits="0"/> <!-- Gladiator -->
+					<class id="4" point="200" gensp="250" credits="0"/> <!-- Lord -->
+					<class id="5" point="200" gensp="250" credits="0"/> <!-- Summoner -->
+					<class id="6" point="200" gensp="250" credits="0"/> <!-- Fighter -->
+				</reward>
+			</group>
+		</grouplist>
+	</normal>
+</resetsystem>

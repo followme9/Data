@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// zGameServer
+// ----------------------------------------------------------------------------------
+// Description: Map server configuration
+// ----------------------------------------------------------------------------------
+// Revision: 	7:15 04.04.2014
+//===================================================================================
+-->
+<mapserver>
+	<serverlist>	
+		<server servercode="0" group="0" init="1" ip="mu.dyndns.tv" port="55901"/>
+		<!-- <server servercode="19" group="0" init="-1" ip="mu.dyndns.tv" port="55909"/> -->
+	</serverlist>
+
+	<movelist>
+		<!-- /*
+		<move servercode="0" movestate="0" map="30" destservercode="09"/>
+		<move servercode="0" movestate="0" map="31" destservercode="09"/>
+		<move servercode="0" movestate="0" map="34" destservercode="09"/>
+		<move servercode="0" movestate="0" map="41" destservercode="09"/>
+		<move servercode="0" movestate="0" map="42" destservercode="09"/>
+		<move servercode="0" movestate="0" map="56" destservercode="09"/>
+		<move servercode="0" movestate="0" map="79" destservercode="09"/>
+		<move servercode="0" movestate="0" map="92" destservercode="09"/>
+		<move servercode="0" movestate="0" map="96" destservercode="09"/>
+	 
+		<move servercode="09" movestate="1" map="30" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="31" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="34" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="41" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="42" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="56" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="79" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="92" destservercode="-1"/>
+		<move servercode="09" movestate="1" map="96" destservercode="-1"/>
+		*/ -->	
+	</movelist>
+</mapserver>

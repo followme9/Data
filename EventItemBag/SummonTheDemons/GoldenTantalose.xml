@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<itembag>
+	<settings>
+		<name>Golden Tantalose</name>
+		<zen min="100000" max="100000" />
+		<excoption op1="0" op2="0" op4="0" op8="0" op16="0" op32="0" />
+	</settings>
+	<itemlist rate="7000">
+		<item id="14" num="219" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--erohim´s nightmare-->
+	        <item id="14" num="14" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of soul-->
+                <item id="14" num="13" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Bless-->
+                <item id="14" num="16" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of life-->
+                <item id="14" num="22" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of creation-->
+                <item id="12" num="15" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of chaos-->
+                <item id="14" num="42" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of harmony-->
+                <item id="12" num="30" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--bundle of Jewel of Bless-->
+                <item id="12" num="30" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--bundle of Jewel of Bless-->
+                <item id="12" num="31" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--bundle of Jewel of soul-->
+                <item id="12" num="31" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--bundle of Jewel of soul-->
+                <item id="12" num="136" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Life Bundle-->
+                <item id="12" num="136" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Life Bundle-->
+                <item id="12" num="137" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Creation Bundle-->
+                <item id="12" num="137" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Creation Bundle-->
+                <item id="12" num="140" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Harmony Bundle-->
+                <item id="12" num="140" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Harmony Bundle-->
+                <item id="12" num="141" lvlmin="0" lvlmax="0" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Chaos Bundle-->
+                <item id="12" num="141" lvlmin="1" lvlmax="1" skill="0" luck="0" option="0" excmin="0" excmax="0" is_anc="0" sockmin="0" sockmax="0" /> <!--Jewel of Chaos Bundle-->
+        </itemlist>
+</itembag>

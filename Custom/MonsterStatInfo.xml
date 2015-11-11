@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: Special monster settings
+// ----------------------------------------------------------------------------------
+-->
+<monsterstatinfo>
+	<!-- Settings for all monsters class -->
+	<default hp="1.0" damage="1.0" defense="1.0" attackrate="1.0" defenserate="1.0" />
+	<!-- Specific monsters settings -->
+	<specific>
+		<!--
+		Example:
+		<monster id="1" hp="1.0" damage="1.0" defense="1.2" attackrate="1.6" defenserate="1.0" /> 
+		-->
+	</specific>
+</monsterstatinfo>

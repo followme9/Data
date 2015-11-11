@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Weapons Merchant Bolo RF
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+	<item id="7" num="59" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="7" num="60" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="7" num="61" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="7" num="73" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	
+	<item id="8" num="59" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="8" num="60" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="8" num="61" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="8" num="73" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	
+	<item id="9" num="59" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="9" num="60" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="9" num="61" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="9" num="73" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	
+	<item id="11" num="59" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="11" num="60" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="11" num="61" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->
+	<item id="11" num="73" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred fire set -->	
+
+	<item id="0" num="32" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred glove -->
+	<item id="0" num="33" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred glove -->
+	<item id="0" num="34" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred glove -->
+	<item id="0" num="35" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- sacred glove -->
+	
+	<item id="15" num="30" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Chain Drive Parchment-->
+	<item id="15" num="31" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	<item id="15" num="32" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	<item id="15" num="33" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	<item id="15" num="34" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	<item id="15" num="35" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	<item id="15" num="36" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Dark Side Parchment-->
+	
+</shop>

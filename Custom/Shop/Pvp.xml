@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Jin
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+    <item id="12" num="145" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- mithril -->
+    <item id="12" num="147" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- elixir -->
+    <item id="12" num="150" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- jewel combination -->
+    <item id="12" num="151" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- spirit powder -->
+    <item id="12" num="221" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- errtel anger -->
+    <item id="12" num="231" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- errtel blessing -->
+    <item id="12" num="241" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- errtel Integrity -->
+    <item id="12" num="251" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- errtel Divinity -->
+    <item id="12" num="261" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="1" /> <!-- errtel gale -->
+    <item id="14" num="13" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- j bless -->
+    <item id="14" num="14" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- j soul -->
+    <item id="12" num="15" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- j chaos -->
+</shop>

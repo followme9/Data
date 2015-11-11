@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<--
+// ----------------------------------------------------------------------------------
+// Description: Hardcore Mode
+// ----------------------------------------------------------------------------------
+-->
+<hardcore>
+	<enable>1</enable>
+	<opcommandadd>1</opcommandadd>
+	<opcommanddec>1</opcommanddec>
+	<opcommandset>1</opcommandset>
+	<opcommandinfo>1</opcommandinfo>
+   <---- RULES  -->
+     <rules>
+     <Active>"1"</Active>
+     <LifeDecreaseByPvP>"80"</LifeDecreaseByPvP>
+     <LifeDecreaseByPvM>"80"</LifeDecreaseByPvM>
+</hardcore>
+

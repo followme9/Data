@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: CheatGuard configuration
+// ----------------------------------------------------------------------------------
+-->
+<cheatguard>
+	<module name="SpeedHack">
+		<notice count="3">Speed hack has been founded!</notice>
+		
+		<property name="Disconnect">1</property>
+		<property name="InformPlayersAround">1</property>
+		<property name="AttackSpeedMaxDelta">50</property>
+		<property name="MagicSpeedMaxDelta">50</property>
+	</module>
+</cheatguard>

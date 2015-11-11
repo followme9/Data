@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pvpbalance>
+<!--
+class table:
+wizard 		= 0
+knight 		= 1
+elf 		= 2
+gladiator 	= 3
+lord 		= 4
+summoner 	= 5
+fighter 	= 6
+-->
+<!-- Wizard / Soul Master / Grand Master -->
+	<rule source="0" target="0"> <!-- example: wizard vs wizard -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="1"> <!-- example: wizard vs knight -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="2"> <!-- example: wizard vs elf -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="3"> <!-- example: wizard vs gladiator -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="4"> <!-- example: wizard vs lord -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="5"> <!-- example: wizard vs summoner -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+		<rule source="0" target="6"> <!-- example: wizard vs fighter -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+<!-- Dark Knight / Blade Knight / Blade Master -->
+	<rule source="1" target="0"> <!-- example: Dark Knight vs wizard -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="1"> <!-- example: Dark Knight vs knight -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="2"> <!-- example: Dark Knight vs elf -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="3"> <!-- example: Dark Knight vs gladiator -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="4"> <!-- example: Dark Knight vs lord -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="5"> <!-- example: Dark Knight vs summoner -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="1" target="6"> <!-- example: Dark Knight vs fighter -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+<!-- Elf - Muse Elf - High Elf  -->
+	<rule source="2" target="0"> <!-- example: Elf vs wizard -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="1"> <!-- example: Elf vs knight -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="2"> <!-- example: Elf vs elf -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="3"> <!-- example: Elf vs gladiator -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="4"> <!-- example: Elf vs lord -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="5"> <!-- example: Elf vs summoner -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+	<rule source="2" target="6"> <!-- example: Elf vs fighter -->
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="20" decrease="0" />
+		<damage increase="0" decrease="10" />
+		<attackrate increase="10" decrease="0" />
+		<defenserate increase="70" decrease="0" />
+	</rule>
+</pvpbalance>

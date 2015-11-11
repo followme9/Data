@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ----------------------------------------------------------------------------------
+// Description: Marriage settings file
+// ----------------------------------------------------------------------------------
+-->
+<marriage>
+	
+	<MarrySystemEnabled="1" />
+	<MarryHomoSexual="0" />
+	<MarryCostZen="0" />
+	<MarryCostPCPoint="0" />
+	<MarryCostWCoin="0" />
+	<MarryMinLvl="0" />
+	<MarryNpcNum="0" />
+	<MarryTrace="0" />
+	<MarryTraceLvl="0" />
+	<IsMarry="0" />
+	<MarryOnline="0" />
+	<MarryExpBonus="0" />
+	<NumWitnesses="0" />
+</marriage>

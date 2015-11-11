@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<itembag>
+	<settings>
+		<name>Gold Rabbit</name>
+		<zen min="100000" max="500000" />
+		<excoption op1="15" op2="15" op4="15" op8="15" op16="20" op32="20" />
+	</settings>
+	<itemlist rate="9000">
+		<!--SWORD 1-->
+		<item id="0" num="4" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="0" num="5" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="0" num="6" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="0" num="7" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="0" num="8" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="0" num="9" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="0" num="10" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="0" num="11" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="0" num="12" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="0" num="13" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="0" num="14" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="0" num="15" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="2" num="7" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="2" num="8" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="2" num="9" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="4" num="8" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="4" num="9" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="4" num="10" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="4" num="11" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="4" num="12" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="4" num="13" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="4" num="14" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="5" num="14" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="5" num="15" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="5" num="16" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="5" num="4" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="5" num="5" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="5" num="6" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="5" num="21" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="5" num="22" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="5" num="23" lvlmin="0" lvlmax="5" skill="1" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        </itemlist>
+	<itemlist rate="6000">
+		<!--SET´s-->
+		<item id="7" num="0" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="0" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="0" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="0" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="0" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="1" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="1" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="1" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="1" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="1" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="2" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="2" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="2" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="2" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="2" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="3" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="3" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="3" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="3" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="3" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="4" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="4" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="4" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="4" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="4" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="5" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="5" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="5" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="5" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="5" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="6" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="6" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="6" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="6" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="6" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="7" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="7" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="7" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="7" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="7" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="8" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="8" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="8" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="8" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="8" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="9" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="9" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="9" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="9" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="9" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="10" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="10" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="10" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="10" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="10" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="11" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="11" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="11" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="11" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="11" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="12" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="12" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="12" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="12" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="12" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="13" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="13" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="13" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="13" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="13" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="7" num="14" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	        <item id="8" num="14" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+                <item id="9" num="14" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+        	<item id="10" num="14" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+		<item id="11" num="14" lvlmin="0" lvlmax="5" skill="0" luck="1" option="15" excmin="1" excmax="3" is_anc="0" sockmin="0" sockmax="0" />
+	</itemlist>
+</itembag>

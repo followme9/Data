@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Harold Wandering
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+<item id="7" num="25" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Helm -->
+<item id="7" num="26" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Helm -->
+<item id="7" num="27" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Battle Scepter -->
+<item id="2" num="8" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Battle Scepter -->
+<item id="2" num="9" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Master Scepter -->
+<item id="8" num="25" dur="255" level="9" skill="1" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Master Scepter -->
+<item id="8" num="26" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Armor -->
+<item id="8" num="27" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Armor -->
+<item id="2" num="10" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Horn Shield -->
+<item id="2" num="11" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Horn Shield -->
+<item id="9" num="25" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Pants -->
+<item id="9" num="26" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Pants -->
+<item id="9" num="27" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Kite Shield -->
+<item id="10" num="25" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Kite Shield -->
+<item id="10" num="26" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Gloves -->
+<item id="10" num="27" dur="255" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" /> <!-- Light Plate Gloves -->
+<item id="12" num="21" dur="255" level="9" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Scroll of FireBurst -->
+<item id="12" num="23" dur="255" level="9" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+<item id="11" num="25" dur="255" level="9" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Medium Healing Potion -->
+<item id="11" num="26" dur="255" level="9" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+<item id="11" num="27" dur="255" level="9" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+<item id="12" num="24" dur="30" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Medium Healing Potion -->
+<item id="12" num="22" dur="30" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+<item id="12" num="35" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Plate Boots -->
+<item id="12" num="48" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Plate Boots -->
+
+</shop>

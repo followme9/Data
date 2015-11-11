@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Natasha Firecracker Merchant
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+<item id="0" num="34" dur="255" level="7" skill="1" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Golden Crossbow -->
+<item id="0" num="34" dur="255" level="7" skill="1" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arquebus -->
+<item id="7" num="61" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arquebus -->
+<item id="8" num="61" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Crossbow -->
+<item id="9" num="61" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Light Crossbow -->
+<item id="11" num="61" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="7" num="59" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="8" num="59" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolts -->
+<item id="9" num="59" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+<item id="11" num="59" dur="255" level="7" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+
+<item id="15" num="30" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrows -->
+<item id="15" num="31" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Orb -->
+<item id="15" num="32" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Defense Orb -->
+<item id="15" num="33" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Damage Orb -->
+<item id="15" num="34" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Defense Orb -->
+<item id="15" num="35" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Greater Damage Orb -->
+<item id="15" num="36" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Firecracker -->
+</shop>

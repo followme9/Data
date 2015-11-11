@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Silvia
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+	<item id="14" num="8" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Antidote -->
+     <item id="14" num="1" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+	<item id="14" num="2" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Medium Healing Potion -->
+	<item id="14" num="3" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+	<item id="14" num="4" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Mana Potion -->
+	<item id="14" num="5" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Medium Mana Potion -->
+	<item id="14" num="6" dur="15" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+    <item id="4" num="7" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="4" num="7" dur="255" level="1" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="4" num="7" dur="255" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->   
+    <item id="4" num="15" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="4" num="15" dur="255" level="1" skill="0" luck="0" option="2" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="4" num="15" dur="255" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="14" num="9" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Alcohol -->
+    <item id="14" num="10" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Town Portal Scroll -->
+    <item id="13" num="8" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Ring of Ice -->
+    <item id="13" num="9" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Ring of Poison -->  
+     <item id="13" num="21" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Ring of Fire -->
+    <item id="13" num="22" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Ring of Earth -->  
+     <item id="13" num="23" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Ring of Wind -->
+     <item id="13" num="12" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Lighting -->
+    <item id="13" num="13" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Fire -->  
+     <item id="13" num="25" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Ice -->
+    <item id="13" num="26" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Wind -->  
+     <item id="13" num="27" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Water -->
+    <item id="13" num="12" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Pendant of Lighting -->  
+     <item id="13" num="0" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Guardian Angel -->
+    <item id="13" num="2" dur="125" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Horn of Uniria -->  
+</shop>

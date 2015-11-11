@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Hanzo the Blacksmith
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+	<item id="7" num="5" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="7" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="7" num="1" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="0" num="2" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="0" num="7" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="8" num="5" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="8" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="8" num="1" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="0" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="9" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="9" num="5" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="9" num="1" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="10" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="0" num="13" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="0" num="14" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="10" num="5" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="10" num="1" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="11" num="9" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="11" num="5" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+	<item id="11" num="1" dur="0" level="9" skill="0" luck="1" option="1" exc="2" anc="0" socket="0" element="-1" />
+
+	<item id="12" num="13" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+	<item id="12" num="7" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+	<item id="12" num="14" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+	<item id="12" num="19" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+	<item id="12" num="12" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+	<item id="12" num="44" dur="0" level="0" skill="0" luck="1" option="1" exc="0" anc="0" socket="0" element="-1" />
+</shop>

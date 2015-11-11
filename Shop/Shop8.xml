@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<!-- 
+// ----------------------------------------------------------------------------------
+// Description:	(Shop) Weapons Merchant Zienna
+// ----------------------------------------------------------------------------------
+-->
+<shop>
+    <item id="12" num="7" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="12" num="14" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="12" num="19" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="12" num="12" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Mana Potion -->
+    <item id="12" num="44" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Mana Potion -->
+    <item id="12" num="13" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+    <item id="12" num="45" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Antidote -->
+    <item id="12" num="46" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="12" num="8" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="12" num="9" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="12" num="10" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="12" num="17" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="12" num="18" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="12" num="11" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="12" num="47" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="12" num="16" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="12" num="21" dur="0" level="1" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="12" num="22" dur="0" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->   
+    <item id="12" num="23" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="12" num="24" dur="0" level="1" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="12" num="25" dur="0" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="12" num="35" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Contract (Summon) -->
+    <item id="12" num="48" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Contract (Summon) -->  
+    <item id="12" num="29" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Contract (Summon) -->  
+    <item id="13" num="1" dur="0" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="13" num="0" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Contract (Summon) -->
+	<item id="13" num="1" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+	<item id="14" num="2" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="14" num="3" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="14" num="4" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="14" num="5" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="14" num="6" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Mana Potion -->
+    <item id="14" num="8" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Mana Potion -->
+    <item id="14" num="0" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+    <item id="14" num="1" dur="255" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Antidote -->
+    <item id="15" num="2" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="15" num="3" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="15" num="4" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="15" num="5" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="15" num="6" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Mana Potion -->
+    <item id="15" num="7" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Mana Potion -->
+    <item id="15" num="8" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+    <item id="15" num="9" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Antidote -->
+    <item id="15" num="10" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="15" num="11" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="15" num="12" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="15" num="13" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="15" num="14" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+    <item id="15" num="28" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="15" num="15" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="15" num="16" dur="0" level="1" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="15" num="17" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="15" num="18" dur="0" level="1" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->
+    <item id="15" num="29" dur="0" level="2" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Bolt -->   
+    <item id="15" num="19" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="15" num="20" dur="0" level="1" skill="0" luck="0" option="0" exc="2" anc="0" socket="0" element="-1" /> <!-- Arrow -->
+    <item id="15" num="21" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Healing Potion -->
+    <item id="15" num="22" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Healing Potion -->
+    <item id="15" num="23" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Healing Potion -->
+    <item id="15" num="24" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Small Mana Potion -->
+    <item id="15" num="26" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Mana Potion -->
+    <item id="15" num="27" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Large Mana Potion -->
+    <item id="15" num="21" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Antidote -->
+    <item id="15" num="22" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Apple -->
+</shop>
