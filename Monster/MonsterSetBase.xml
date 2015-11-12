@@ -1378,7 +1378,6 @@
                 <monster id="565" map="6" dis="10" x="11" y="75" dir="-1" count="15" /> <!-- Iron Knight -->
                 <monster id="540" map="6" dis="10" x="11" y="38" dir="-1" count="15" /> <!-- Lugard -->
                 <monster id="549" map="6" dis="10" x="11" y="27" dir="-1" count="15" /> <!-- Bloody Orc -->
-    
 		<!-- Atlans -->
 		<monster id="45" map="7" dis="3" x="34" y="34" w="36" h="36" dir="-1" count="4" /> <!-- bahamut -->
 		<monster id="46" map="7" dis="3" x="29" y="50" w="36" h="53" dir="-1" count="4" /> <!-- vepar -->
