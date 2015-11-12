@@ -1362,6 +1362,28 @@
 		<monster id="39" map="4" dis="30" x="183" y="233" dir="-1" count="1" /> <!-- Poison Shadow -->
 		<monster id="39" map="4" dis="30" x="173" y="237" dir="-1" count="1" /> <!-- Poison Shadow -->
 		<monster id="55" map="4" dis="30" x="17" y="130" dir="-1" count="1" /> <!-- Death King -->
+		<!--Arena-->
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+                dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" 
+
 		<!-- Atlans -->
 		<monster id="45" map="7" dis="3" x="34" y="34" w="36" h="36" dir="-1" count="4" /> <!-- bahamut -->
 		<monster id="46" map="7" dis="3" x="29" y="50" w="36" h="53" dir="-1" count="4" /> <!-- vepar -->
