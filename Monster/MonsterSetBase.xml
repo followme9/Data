@@ -1356,16 +1356,29 @@
 		<monster id="39" map="4" dis="30" x="173" y="237" dir="-1" count="1" /> <!-- Poison Shadow -->
 		<monster id="55" map="4" dis="30" x="17" y="130" dir="-1" count="1" /> <!-- Death King -->
 		<!--Arena-->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
-		<monster id="94" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="94" map="6" dis="10" x="63" y="31" dir="-1" count="12" /> <!-- Red Skeleton Knight -->
+                <monster id="74" map="6" dis="10" x="30" y="38" dir="-1" count="12" /> <!-- Alpha Crust -->
+                <monster id="58" map="6" dis="10" x="47" y="39" dir="-1" count="12" /> <!-- Tantalos -->
+                <monster id="62" map="6" dis="10" x="66" y="64" dir="-1" count="12" /> <!-- Mutant -->
+                <monster id="57" map="6" dis="30" x="68" y="74" dir="-1" count="12" /> <!-- Iron Wheel -->
+                <monster id="60" map="6" dis="10" x="66" y="86" dir="-1" count="12" /> <!-- Bloody Wolf -->
+                <monster id="69" map="6" dis="10" x="47" y="114" dir="-1" count="15" /> <!-- Alquamos -->
+		<monster id="71" map="6" dis="10" x="77" y="114" dir="-1" count="12" /> <!-- Mega Crust -->
+                <monster id="20" map="6" dis="10" x="47" y="81" dir="-1" count="15" /> <!-- Elite Yeti -->
+                <monster id="41" map="6" dis="10" x="45" y="95" dir="-1" count="12" /> <!-- Death Cow -->
+                <monster id="36" map="6" dis="10" x="50" y="71" dir="-1" count="10" /> <!-- Shadow -->
+                <monster id="39" map="6" dis="10" x="46" y="71" dir="-1" count="10" /> <!-- Poison Shadow -->
+                <monster id=93 map="6" dis="10" x="47" y="57" dir="-1" count="15" /> <!-- Giant Ogre -->
+                <monster id="73" map="6" dis="10" x="29" y="39" dir="-1" count="12" /> <!-- Drakan -->
+                <monster id="75" map="6" dis="10" x="29" y="57" dir="-1" count="12" /> <!-- Great Drakan -->
+                <monster id="257" map="6" dis="10" x="29" y="74" dir="-1" count="15" /> <!-- Shadow Phantom Soldier -->
+                <monster id="360" map="6" dis="10" x="30" y="93" dir="-1" count="15" /> <!-- Dreadfear -->
+                <monster id="438" map="6" dis="10" x="12" y="92" dir="-1" count="15" /> <!-- Persona -->
+                <monster id="482" map="6" dis="10" x="11" y="57" dir="-1" count="15" /> <!-- Resurrected Gladiator -->
+                <monster id="565" map="6" dis="10" x="11" y="75" dir="-1" count="15" /> <!-- Iron Knight -->
+                <monster id="540" map="6" dis="10" x="11" y="38" dir="-1" count="15" /> <!-- Lugard -->
+                <monster id="549" map="6" dis="10" x="11" y="27" dir="-1" count="15" /> <!-- Bloody Orc -->
+    
 		<!-- Atlans -->
 		<monster id="45" map="7" dis="3" x="34" y="34" w="36" h="36" dir="-1" count="4" /> <!-- bahamut -->
 		<monster id="46" map="7" dis="3" x="29" y="50" w="36" h="53" dir="-1" count="4" /> <!-- vepar -->
