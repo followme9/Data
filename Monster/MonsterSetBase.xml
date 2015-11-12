@@ -19,7 +19,6 @@
 		<monster id="500" map="0" dis="30" x="10" y="10" w="200" h="200" dir="-1" count="3" />
 		<monster id="501" map="0" dis="30" x="10" y="10" w="200" h="200" dir="-1" count="3" />
 	</golden>
-
 	<!-- NPC List -->
 	<list type="0">
 		<!-- Lorencia -->
@@ -39,16 +38,13 @@
 		<npc id="240" map="0" dis="0" x="147" y="145" dir="1" /> <!-- Safety Guardian -->
 		<npc id="240" map="0" dis="0" x="146" y="110" dir="3" /> <!-- Safety Guardian -->
 		<npc id="375" map="0" dis="0" x="131" y="147" dir="2" /> <!-- Chaos Card Master -->
-		
 		<npc id="257" map="0" dis="0" x="96" y="129" dir="1" />  <!-- Shadow Phantom Soldier -->
 		<npc id="257" map="0" dis="0" x="132" y="165" dir="3" /> <!-- Shadow Phantom Soldier -->
 		<npc id="257" map="0" dis="0" x="131" y="88" dir="1" />  <!-- Shadow Phantom Soldier -->
 		<npc id="257" map="0" dis="0" x="173" y="129" dir="1" /> <!-- Shadow Phantom Soldier -->
-		
 		<npc id="543" map="0" dis="0" x="144" y="127" dir="2" /> <!-- Gens Duprian Steward -->
 		<npc id="547" map="0" dis="0" x="139" y="138" dir="3" /> <!-- Market Union Member Julia -->
 		<npc id="584" map="0" dis="0" x="114" y="132" dir="3" /> <!-- Sir Lesnar -->
-		
 		<npc id="578" map="0" dis="0" x="130" y="121" dir="3" shop="22" /> <!-- Weapons Merchant Bolo -->
 		<!-- Dungeon -->
 		<npc id="101" map="1" dis="0" x="10" y="26" dir="1" /> <!-- Iron Stick -->
@@ -319,7 +315,6 @@
 		<npc id="240" map="8" dis="0" x="189" y="69" dir="2" /> <!-- Bau -->
 		<npc id="255" map="8" dis="0" x="191" y="74" dir="2" shop="1" /> <!-- Lumen the Barmaid -->
 		<npc id="257" map="8" dis="0" x="153" y="60" dir="1" />  <!-- Shadow Phantom Soldier -->
-		
 		<npc id="605" map="8" dis="5" x="188" y="54" dir="-1" /> <!-- Mining Area (Small) -->
 		<npc id="605" map="8" dis="5" x="198" y="64" dir="-1" /> <!-- Mining Area (Small) -->
 		<npc id="605" map="8" dis="5" x="206" y="72" dir="-1" /> <!-- Mining Area (Small) -->
@@ -513,7 +508,6 @@
 		<npc id="606" map="57" dis="3" x="217" y="208" dir="-1" /> <!-- Mining Area (Medium) -->
 		<npc id="607" map="57" dis="3" x="224" y="221" dir="-1" /> <!-- Mining Area (Large) -->
 		<npc id="257" map="57" dis="0" x="214" y="210" dir="1"  />  <!-- bau -->
-		
 		<!-- Raklion Boss -->
 		<npc id="459" map="58" dis="0" x="145" y="31" dir="-1" /> <!-- Selupan -->
 		<npc id="460" map="58" dis="0" x="141" y="27" dir="0" /> <!-- Spider Eggs -->
@@ -611,7 +605,6 @@
 		<npc id="583" map="91" dis="0" x="56" y="202" dir="2" shop="23" /> <!-- Jin -->
 		<npc id="240" map="91" dis="0" x="50" y="184" dir="3" /> <!-- Safety Guardian -->
 	</list>
-
 	<!-- Monster List -->
 	<list type="1">
 		<!-- Dungeon -->
@@ -1362,6 +1355,17 @@
 		<monster id="39" map="4" dis="30" x="183" y="233" dir="-1" count="1" /> <!-- Poison Shadow -->
 		<monster id="39" map="4" dis="30" x="173" y="237" dir="-1" count="1" /> <!-- Poison Shadow -->
 		<monster id="55" map="4" dis="30" x="17" y="130" dir="-1" count="1" /> <!-- Death King -->
+		<!--Arena-->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
+		<monster id="98" map="6" dis="30" x="63" y="31" dir="-1" /> <!-- Red Skeleton Knight -->
 		<!-- Atlans -->
 		<monster id="45" map="7" dis="3" x="34" y="34" w="36" h="36" dir="-1" count="4" /> <!-- bahamut -->
 		<monster id="46" map="7" dis="3" x="29" y="50" w="36" h="53" dir="-1" count="4" /> <!-- vepar -->
@@ -2849,7 +2853,6 @@
 		<monster id="487" map="63" dis="30" x="225" y="189" dir="-1" count="1" /> <!-- Cruel Blood Assassin -->
 		<monster id="487" map="63" dis="30" x="213" y="183" dir="-1" count="1" /> <!-- Cruel Blood Assassin -->
 		<monster id="482" map="63" dis="30" x="91" y="12" dir="-1" count="1" /> <!-- Resurrected Gladiator -->
-
 		<!-- Aida -->	
 		<monster id="304" map="33" dis="30" x="106" y="49" dir="-1" count="1" /> <!-- Witch Queen -->
 		<monster id="304" map="33" dis="30" x="120" y="97" dir="-1" count="1" /> <!-- Witch Queen -->
@@ -3104,11 +3107,8 @@
 		<monster id="306" map="33" dis="30" x="214" y="35" dir="-1" count="1" /> <!-- Death Rider -->		
 		<monster id="308" map="33" dis="3" x="106" y="12" w="108" h="14" dir="-1" count="3" /> <!-- mths Death TRee -->
 		<monster id="307" map="33" dis="3" x="106" y="12" w="108" h="14" dir="-1" count="3" /> <!-- mths Forest ORC -->
-		
-		
 		<!-- Crywolf -->
 		<monster id="310" map="34" dis="2" x="204" y="48" w="205" h="50" dir="-1" count="10" /> <!-- Hammer Scout -->
-		
 		<monster id="310" map="34" dis="30" x="58" y="47" dir="-1" count="1" /> <!-- Hammer Scout -->
 		<monster id="310" map="34" dis="30" x="60" y="38" dir="-1" count="1" /> <!-- Hammer Scout -->
 		<monster id="310" map="34" dis="30" x="65" y="24" dir="-1" count="1" /> <!-- Hammer Scout -->
@@ -4047,7 +4047,6 @@
 		<monster id="421" map="51" dis="30" x="132" y="209" dir="-1" count="1" /> <!-- Polluted Butterfly -->		
 		<monster id="418" map="51" dis="30" x="106" y="218" dir="-1" count="4" /> <!-- mths edit Hideous Rabbit -->
 		<monster id="418" map="51" dis="30" x="106" y="218" dir="-1" count="4" /> <!-- mths edit Hideous Rabbit -->
-		
 		<!-- Swamp of Calmness -->
 		<monster id="441" map="56" dis="5" x="198" y="198" dir="-1" count="1" /> <!-- Sapi-Unus -->
 		<monster id="441" map="56" dis="5" x="207" y="202" dir="-1" count="1" /> <!-- Sapi-Unus -->
@@ -4943,7 +4942,6 @@
 		<monster id="571" map="81" dis="30" x="208" y="126" dir="-1" count="1" /> <!-- Orcus -->
 		<monster id="571" map="81" dis="30" x="67" y="175" dir="-1" count="1" /> <!-- Orcus -->
 	</list>
-
 	<!-- Monster Spot List -->
 	<list type="1">
 		<!-- Lorencia -->		
@@ -5002,7 +5000,6 @@
 		<monster id="20" map="2" dis="10" x="239" y="235" w="166" h="244" dir="-1" count="10" /> <!-- Elite Yeti -->
 		<monster id="20" map="2" dis="10" x="241" y="212" w="166" h="244" dir="-1" count="10" /> <!-- Elite Yeti -->
 		<monster id="20" map="2" dis="10" x="198" y="215" w="166" h="244" dir="-1" count="10" /> <!-- Elite Yeti -->
-		
 		<!-- Noria -->		
 		<monster id="26" map="3" dis="30" x="128" y="0" w="251" h="128" dir="-1" count="35" /> <!-- Goblin -->
 		<monster id="27" map="3" dis="30" x="128" y="0" w="251" h="128" dir="-1" count="35" /> <!-- Chain Scorpion -->
@@ -5012,7 +5009,6 @@
 		<monster id="31" map="3" dis="30" x="0" y="128" w="251" h="245" dir="-1" count="35" /> <!-- Agon -->
 		<monster id="32" map="3" dis="30" x="0" y="128" w="251" h="245" dir="-1" count="35" /> <!-- Stone Golem -->
 		<monster id="33" map="3" dis="30" x="0" y="128" w="128" h="245" dir="-1" count="35" /> <!-- Elite Goblin -->
-		
 		<monster id="26" map="3" dis="10" x="155" y="115" w="149" h="120" dir="-1" count="10" /> <!-- Goblin -->
 		<monster id="26" map="3" dis="10" x="178" y="67" w="184" h="69" dir="-1" count="10" /> <!-- Goblin -->
 		<monster id="27" map="3" dis="10" x="184" y="65" w="184" h="72" dir="-1" count="10" /> <!-- Chain Scorpion -->
@@ -5033,57 +5029,46 @@
 		<monster id="166" map="6" dis="10" x="35" y="114" w="39" h="114" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="111" map="6" dis="5" x="27" y="114" w="29" h="114" dir="-1" count="15" /> <!-- Red Skeleton -->
 		<monster id="112" map="6" dis="5" x="17" y="114" w="19" h="114" dir="-1" count="15" /> <!-- Magic Skeleton -->
-		
 		<monster id="166" map="6" dis="0" x="69" y="100" w="69" h="100" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="166" map="6" dis="0" x="69" y="100" w="69" h="100" dir="-1" count="15" /> <!-- Chaos castle 5 -->
-		
 		<monster id="166" map="6" dis="5" x="77" y="114" w="77" h="114" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="166" map="6" dis="5" x="77" y="114" w="77" h="114" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="111" map="6" dis="5" x="77" y="114" w="77" h="114" dir="-1" count="15" /> <!-- Red Skeleton -->
 		<monster id="112" map="6" dis="5" x="77" y="114" w="77" h="114" dir="-1" count="15" /> <!-- Magic Skeleton -->
-
 		<monster id="166" map="6" dis="5" x="66" y="55" w="71" h="56" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="166" map="6" dis="5" x="66" y="55" w="71" h="56" dir="-1" count="15" /> <!-- Chaos castle 5 -->
 		<monster id="111" map="6" dis="5" x="48" y="41" w="44" h="38" dir="-1" count="15" /> <!-- Red Skeleton -->
 		<monster id="112" map="6" dis="5" x="48" y="36" w="44" h="38" dir="-1" count="15" /> <!-- Magic Skeleton -->
 		<monster id="431" map="6" dis="5" x="48" y="54" w="48" h="60" dir="-1" count="15" /> <!-- Giant Ogre -->
 		<monster id="431" map="6" dis="5" x="44" y="55" w="52" h="56" dir="-1" count="15" /> <!-- Giant Ogre -->
-
 		<monster id="166" map="6" dis="5" x="49" y="71" w="47" h="76" dir="-1" count="10" /> <!-- Chaos castle 5 -->
 		<monster id="166" map="6" dis="5" x="49" y="82" w="48" h="56" dir="-1" count="10" /> <!-- Chaos castle 5 -->
 		<monster id="111" map="6" dis="5" x="48" y="82" w="48" h="76" dir="-1" count="10" /> <!-- Red Skeleton -->
 		<monster id="112" map="6" dis="5" x="48" y="71" w="47" h="56" dir="-1" count="10" /> <!-- Magic Skeleton -->
-
 		<monster id="188" map="6" dis="5" x="67" y="82" w="67" h="76" dir="-1" count="10" /> <!-- Schriker -->
 		<monster id="111" map="6" dis="5" x="67" y="71" w="67" h="65" dir="-1" count="10" /> <!-- Red Skeleton -->
 		<monster id="188" map="6" dis="5" x="67" y="74" w="67" h="83" dir="-1" count="10" /> <!-- Schriker -->
-
 		<monster id="73" map="6" dis="5" x="30" y="42" w="30" h="35" dir="-1" count="15" /> <!-- Drakan -->
 		<monster id="73" map="6" dis="5" x="25" y="39" w="34" h="39" dir="-1" count="15" /> <!-- Drakan -->
 		<monster id="73" map="6" dis="5" x="31" y="54" w="31" h="60" dir="-1" count="15" /> <!-- Drakan -->
 		<monster id="73" map="6" dis="5" x="26" y="56" w="33" h="56" dir="-1" count="15" /> <!-- Drakan -->
-
 		<monster id="74" map="6" dis="5" x="31" y="71" w="31" h="77" dir="-1" count="15" /> <!-- Alpha Crust -->
 		<monster id="174" map="6" dis="5" x="26" y="74" w="33" h="75" dir="-1" count="15" /> <!--  -->
 		<monster id="174" map="6" dis="5" x="30" y="88" w="30" h="93" dir="-1" count="15" /> <!--  -->
 		<monster id="74" map="6" dis="5" x="26" y="92" w="32" h="92" dir="-1" count="15" /> <!-- Alpha Crust -->
-
 		<monster id="111" map="6" dis="5" x="9" y="91" w="14" h="92" dir="-1" count="15" /> <!--  -->
 		<monster id="112" map="6" dis="5" x="12" y="96" w="12" h="90" dir="-1" count="15" /> <!--  -->
 		<monster id="112" map="6" dis="5" x="12" y="77" w="12" h="72" dir="-1" count="15" /> <!--  -->
 		<monster id="174" map="6" dis="5" x="9" y="74" w="14" h="74" dir="-1" count="15" /> <!--  -->
-
 		<monster id="174" map="6" dis="5" x="12" y="59" w="12" h="53" dir="-1" count="15" /> <!--  -->
 		<monster id="111" map="6" dis="5" x="9" y="57" w="13" h="56" dir="-1" count="15" /> <!--  -->
 		<monster id="174" map="6" dis="5" x="12" y="36" w="12" h="40" dir="-1" count="15" /> <!--  -->
 		<monster id="111" map="6" dis="5" x="9" y="38" w="13" h="38" dir="-1" count="15" /> <!--  -->
-	
 		<!-- Atlans -->
 		<monster id="45" map="7" dis="5" x="23" y="37" w="23" h="37" dir="-1" count="10" /> <!-- Bahamut -->
 		<monster id="51" map="7" dis="5" x="226" y="63" w="226" h="63" dir="-1" count="10" /> <!-- Great Bahamut -->
 		<monster id="52" map="7" dis="5" x="226" y="63" w="226" h="63" dir="-1" count="10" /> <!-- Silver Valkyrie -->
 		<monster id="52" map="7" dis="5" x="70" y="167" w="70" h="167" dir="-1" count="10" /> <!-- Silver Valkyrie -->
-	
 		<!-- Devil Square (1-4) -->
 		<monster id="17" map="9" dis="30" x="119" y="80" w="150" h="115" dir="-1" count="35" /> <!-- Cyclops -->
 		<monster id="15" map="9" dis="30" x="119" y="80" w="150" h="115" dir="-1" count="35" /> <!-- Skeleton Archer -->
@@ -6647,7 +6632,6 @@
 		<monster id="426" map="53" dis="30" x="39" y="93" dir="6" /> <!-- Chaos Castle13 -->
 		<monster id="427" map="53" dis="30" x="41" y="84" dir="6" /> <!-- Chaos Castle14 -->
 	</list>
-
 	<!-- Imperial Guardian Monster & NPC List -->
 	<list type="5">
 		<!-- Imperial Guardian 1 -->
@@ -7071,14 +7055,12 @@
 		<monster id="523" map="72" dis="0" x="224" y="152" dir="8" area="2" day="1" /> <!-- Trap -->
 		<monster id="523" map="72" dis="0" x="224" y="155" dir="8" area="2" day="1" /> <!-- Trap -->
 	</list>
-
 	<!-- Acheron Element Monster -->
 	<list type="6">
 		<!-- Acheron -->
 		<monster id="586" map="91" dis="3" x="73" y="43" w="73" h="43" dir="-1" count="1" element="1" /> <!-- Devilfairy --> 
 		<monster id="586" map="91" dis="3" x="73" y="43" w="73" h="43" dir="-1" count="1" element="1" /> <!-- Devilfairy --> 
 		<monster id="586" map="91" dis="3" x="73" y="43" w="73" h="43" dir="-1" count="1" element="1" /> <!-- Devilfairy --> 
-
 		<monster id="586" map="91" dis="30" x="155" y="135" w="159" h="146" dir="-1" count="1" element="1" /> <!-- Devilfairy -->
 		<monster id="586" map="91" dis="30" x="152" y="145" w="157" h="151" dir="-1" count="1" element="1" /> <!-- Devilfairy -->
 		<monster id="586" map="91" dis="30" x="157" y="146" w="162" h="153" dir="-1" count="1" element="1" /> <!-- Devilfairy -->
@@ -7306,5 +7288,4 @@
 		<monster id="593" map="91" dis="30" x="79" y="5" w="248" h="183" dir="-1" count="1" element="1" /> <!-- Salamander -->
 		<monster id="592" map="91" dis="30" x="14" y="6" w="242" h="151" dir="-1" count="1" element="2" /> <!-- Undine -->
 	</list>
-
 </monstersetbase>
