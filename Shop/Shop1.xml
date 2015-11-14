@@ -53,4 +53,6 @@
 	<item id="14" num="102" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Event Imperial Guard --> 
 	<item id="14" num="109" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Event Imperial Guard Domingo --> 
 	<item id="13" num="146" dur="0" level="0" skill="0" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Spirit Map (Archeron event) -->
+        <item id="13" num="1" dur="0" level="1" skill="1" luck="0" option="0" exc="0" anc="0" socket="0" element="-1" /> <!-- Loch's Feather -->
+
 </shop>
