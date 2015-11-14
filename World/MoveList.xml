@@ -40,7 +40,7 @@
 	<move id="28" money="9000" level="160" gate="138">KanturuRuins1</move>
 	<move id="29" money="9000" level="160" gate="141">KanturuRuins2</move>
 	<move id="45" money="15000" level="160" gate="334">KanturuRuins3</move>
-	<move id="30" money="12000" level="230" gate="139">KanturuRelics</move>
+	<move id="30" money="12000" level="150" gate="139">KanturuRelics</move>
 	<move id="46" money="13000" level="170" gate="335">Karutan1</move>
 	<move id="47" money="14000" level="170" gate="344">Karutan2</move>
 	<move id="34" money="15000" level="280" gate="287">LaCleon</move>
