@@ -3339,7 +3339,7 @@
 		<monster id="337" map="36" dis="30" x="46" y="86" dir="-1" count="1" /> <!-- Schriker -->
 		<monster id="337" map="36" dis="30" x="23" y="85" dir="-1" count="1" /> <!-- Schriker -->
 		<monster id="337" map="36" dis="30" x="23" y="70" dir="-1" count="1" /> <!-- Schriker -->
-		<monster id="275" map="36" dis="30" x="26" y="76" dir="-1" count="1" /> <!-- Kundun -->
+		<monster id="275" map="36" dis="30" x="26" y="76" dir="-1" count="5" /> <!-- Kundun -->
 		<!-- Kanturu -->
 		<monster id="352" map="37" dis="10" x="204" y="187" dir="-1" count="3" /> <!-- Iron Rider -->
 		<monster id="350" map="37" dis="30" x="188" y="11" dir="-1" count="1" /> <!-- Berserker -->
@@ -3553,6 +3553,7 @@
 		<monster id="555" map="37" dis="30" x="110" y="106" dir="-1" count="1" /> <!-- Gigantis Warrior -->
 		<monster id="556" map="37" dis="30" x="115" y="98" dir="-1" count="1" /> <!-- Genocider Warrior -->
 		<!-- Kanturu Remain -->
+		<monster id="359" map="38" dis="30" x="122" y="69" dir="-1" count="15" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="159" y="98" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="100" y="97" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="99" y="85" dir="-1" count="1" /> <!-- Twin Tale -->
@@ -3561,6 +3562,7 @@
 		<monster id="359" map="38" dis="30" x="111" y="79" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="123" y="88" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="358" map="38" dis="30" x="140" y="76" dir="-1" count="1" /> <!-- Persona -->
+		<monster id="358" map="38" dis="30" x="148" y="85" dir="-1" count="15" /> <!-- Persona -->
 		<monster id="359" map="38" dis="30" x="139" y="99" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="178" y="92" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="198" y="121" dir="-1" count="1" /> <!-- Twin Tale -->
@@ -3569,7 +3571,7 @@
 		<monster id="359" map="38" dis="30" x="135" y="88" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="117" y="135" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="358" map="38" dis="30" x="106" y="159" dir="-1" count="1" /> <!-- Persona -->
-		<monster id="360" map="38" dis="30" x="110" y="140" dir="-1" count="1" /> <!-- Dreadfear -->
+		<monster id="358" map="38" dis="30" x="140" y="76" dir="-1" count="1" /> <!-- Persona -->
 		<monster id="359" map="38" dis="30" x="101" y="139" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="149" y="85" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="359" map="38" dis="30" x="153" y="78" dir="-1" count="1" /> <!-- Twin Tale -->
@@ -3583,6 +3585,14 @@
 		<monster id="358" map="38" dis="30" x="175" y="104" dir="-1" count="1" /> <!-- Persona -->
 		<monster id="359" map="38" dis="30" x="168" y="94" dir="-1" count="1" /> <!-- Twin Tale -->
 		<monster id="360" map="38" dis="30" x="122" y="127" dir="-1" count="1" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="110" y="160" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="108" y="159" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="109" y="158" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="107" y="157" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="110" y="154" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="109" y="152" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="107" y="157" dir="-1" count="2" /> <!-- Dreadfear -->
+		<monster id="360" map="38" dis="30" x="109" y="150" dir="-1" count="3" /> <!-- Dreadfear -->
 		<monster id="358" map="38" dis="30" x="111" y="159" dir="-1" count="1" /> <!-- Persona -->
 		<monster id="358" map="38" dis="30" x="105" y="133" dir="-1" count="1" /> <!-- Persona -->
 		<monster id="358" map="38" dis="30" x="119" y="126" dir="-1" count="1" /> <!-- Persona -->
