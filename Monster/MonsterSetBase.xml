@@ -5077,7 +5077,13 @@
 		<monster id="304" map="33" dis="5" x="100" y="10" w="100" h="10" dir="-1" count="15" />
 		<monster id="305" map="33" dis="5" x="188" y="182" w="188" h="182" dir="-1" count="15" />
 		<!-- Kanturu Spot -->
-		<monster id="352" map="37" dis="5" x="175" y="37" w="175" h="37" dir="-1" count="15" /> <!-- Iron Rider -->				
+		<monster id="352" map="37" dis="5" x="175" y="37" w="175" h="37" dir="-1" count="15" /> <!-- Iron Rider -->
+			<!-- Kanturu Spot -->
+		<monster id="359" map="38" dis="5" x="122" y="69" w="175" h="37" dir="-1" count="16" /> <!-- Twin Tale -->
+		<monster id="438" map="38" dis="5" x="148" y="85" w="175" h="37" dir="-1" count="16" /> <!-- Persona -->
+		<monster id="439" map="38" dis="5" x="108" y="158" w="175" h="37" dir="-1" count="6" /> <!-- Dreadfear -->
+		<monster id="439" map="38" dis="5" x="106" y="153" w="175" h="37" dir="-1" count="6" /> <!-- Dreadfear -->
+		<monster id="439" map="38" dis="5" x="109" y="154" w="175" h="37" dir="-1" count="6" /> <!-- Dreadfear -->
 		<!-- Elbeland -->
 		<monster id="418" map="51" dis="30" x="208" y="11" w="228" h="82" dir="-1" count="15" /> <!-- Strange Rabbit -->
 		<monster id="418" map="51" dis="30" x="164" y="21" w="230" h="44" dir="-1" count="15" /> <!-- Strange Rabbit -->
