@@ -46,5 +46,5 @@
 	<move id="34" money="15000" level="280" gate="287">LaCleon</move>
 	<move id="33" money="15000" level="400" gate="273">PeaceSwamp</move>
 	<move id="42" money="15000" level="30" gate="294">Vulcanus</move>
-	<move id="51" money="15000" level="400" gate="258">CryWolf</move>
+	<move id="51" money="15000" level="40" gate="258">CryWolf</move>
 	</movelist>
